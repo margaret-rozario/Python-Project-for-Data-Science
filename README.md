@@ -1,4 +1,6 @@
-###Python Projects for Data Science
+Python Projects for Data Science
+
+
 Welcome to the "Python Projects for Data Science" repository! This repository contains a collection of Python projects focused on data science, showcasing the practical application of Python libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization.
 
 Getting Started
